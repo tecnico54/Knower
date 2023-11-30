@@ -1,0 +1,14 @@
+*{
+        padding: 0;
+        margin: 0;
+    }
+    legend{
+  font-size: 5rem;
+  text-align: center;
+  color: blue;
+}
+#reloj{
+  font-size: 5rem;
+  color: blue;
+  text-align: center;
+}
